@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d3a5d5c-180f-4ca2-a6e7-dad5f2748b81" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fisiere/Note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fisiere/Note.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fisiere/Studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fisiere/Studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fisiere/Catinas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fisiere/Catinas.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/IntegrationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="262">
+              <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#151#152#0" expanded="true" />
@@ -230,7 +229,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586773723093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586778214853" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -323,14 +322,11 @@
       <option name="presentableId" value="Default" />
       <updated>1585735236335</updated>
       <workItem from="1585735249700" duration="4137000" />
-      <workItem from="1586772016635" duration="2180000" />
+      <workItem from="1586772016635" duration="4244000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegrationTest_testAddGrade - 2020.04.13 at 13h 19m 01s.xml">
-      <configuration name="IntegrationTest.testAddGrade" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="IntegrationTest_testAddGrade - 2020.04.13 at 13h 22m 15s.xml">
       <configuration name="IntegrationTest.testAddGrade" configurationId="JUnit" />
     </history-entry>
@@ -358,15 +354,17 @@
     <history-entry file="IntegrationTest - 2020.04.13 at 13h 28m 46s.xml">
       <configuration name="IntegrationTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="IntegrationTest - 2020.04.13 at 13h 55m 42s.xml">
+      <configuration name="IntegrationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6317000" />
+    <option name="totallyTimeSpent" value="8381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18724832" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18724832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -375,7 +373,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26628897" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2592068" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,7 +381,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.2266289" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.14589235" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.5042493" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -517,8 +515,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/IntegrationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="262">
+          <caret line="53" column="29" lean-forward="true" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#151#152#0" expanded="true" />
